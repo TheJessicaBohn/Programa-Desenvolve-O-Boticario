@@ -20,20 +20,72 @@
 	- Adaptar às novas situações de mudança;
 
 ## Alguns campos de Inteligência Artificial:
-	
-	| Técnica  | O que a IA faz? | Exemplos |
-	| ------------- | ------------- | ------------- |
-	| Aprendizado de Maquina | Ensina a IA com dados | Sugestão de vídeos no YouTube |
-	| Redes Neurais | Simula o cerebro humano | Chat GPT entendendo perguntas |
-	| Deep Learning | IA com redes neurais profundas | IAs que criam imagens |
-	| NLP (Neural Lenguage Processing) | Entende a linguagem humana | Google tradutor, Chat GPT |
-	| Visão Computacional | Faz a IA "ver" | Câmera que reconhece rostos |
-	| Sistemas Especialistas | Toma decisões com base em regras | Diagnótico médico automatizado |
-	| Raciocínio/Lógica | Deduz informações logicamente | Assistente virtual de tomada de decisões |
-	| Robótica | Aplica IAs em robôs físicos | Robô aspirador ou robô de fábrica |
+<table>
+	<thead>
+		<tr>
+			<th align="center"> Técnica </th>
+			<th align="center"> O que a IA faz?</th>
+			<th align="center">Exemplos</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center"> Aprendizado de Maquina </td>
+			<td align="center"> Ensina a IA com dados </td>
+			<td align="center"> Sugestão de vídeos no YouTube </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> Redes Neurais </td>
+			<td align="center"> Simula o cerebro humano </td>
+			<td align="center"> Chat GPT entendendo perguntas </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> Deep Learning </td>
+			<td align="center"> IA com redes neurais profundas </td>
+			<td align="center"> IAs que criam imagens </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> NLP (Neural Lenguage Processing) </td>
+			<td align="center"> Entende a linguagem humana </td>
+			<td align="center"> Google tradutor, Chat GPT </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> Visão Computacional </td>
+			<td align="center"> Faz a IA "ver" </td>
+			<td align="center"> Câmera que reconhece rostos </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> Sistemas Especialistas </td>
+			<td align="center"> Toma decisões com base em regras </td>
+			<td align="center"> Diagnótico médico automatizado </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> Raciocínio/Lógica </td>
+			<td align="center"> Deduz informações logicamente </td>
+			<td align="center"> Assistente virtual de tomada de decisões </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> Robótica </td>
+			<td align="center"> Aplica IAs em robôs físicos </td>
+			<td align="center"> Robô aspirador ou robô de fábrica </td>
+		</tr>
+	</tbody>
+</table>
 
-
-
-##Fontes:
+## Fontes:
 - https://desenvolve.kflix.com.br/
 	- Curso de inteligência artificial Korú - Ministrado por Luciano Soler - Eng. de Software;
