@@ -10,7 +10,7 @@
 - Além das notícias, as IAs vieram para buscarmos soluções para o dia a dia, como por exemplo uma receita de bolo;
 
 ## O que é Inteligência A?
-- A Inteligência Artificial(IA) refere-se ao desenvolvimento de sistemas de computadorque podem executar tarefas que normalmente exigem inteligência humana;
+- A Inteligência Artificial(IA) refere-se ao desenvolvimento de sistemas de computador que podem executar tarefas que normalmente exigem inteligência humana;
 - Significa que é um programa para substituir algo que tem que se pensar, ou seja substituir a inteligência humana, fazer a tarefa dela;
 - Como a IA funciona como um humano?
 	- Aprender com a experiência (aprendizado de maquina);
@@ -96,6 +96,21 @@
 - Alexa: Amazon;
 - Boa parte das IAs do dia a dia são IAs que trabalham com linguagem natural, entendem o que o usuário precisa e traduz para uma requisição de computador, trazendo resultados da internet;
 - Também são encontradas em semaforos inteligentes;
+
+## Como o computador aprende?
+- Com arquivos, textos, imagens, vídeos, audios.
+- Na IA esses dados são tratados e processados pelo algoritmo inteligente, pela rede neural e são retornados números, e depois convertido para audios, vídeos, etc, do que o usuário solicitar;
+- Existem 3 tipos de formas de aprendizado no computador:
+	- 1 - Supervisionado: é quando o computador é acompanhado no seu aprendizado, ensinando para a IA exatamente o que você quer que ela aprenda. Ela aprende com dados que já têm respostas certas(rótulos). Ensinar um sistema a reconhecer percevejos, e mostra imagens com a etiqueta: "é um gato", "não é um gato";
+	- 2 - Não Supervisionado: faz um processo de classificação, ela tenta encontrar padrões por conta própria, sem saber as respostas certas. Ex: classificar grupos de frutas sem saber que frutas são; ou então clusterização mamiferos x aves;
+	- 3 - Aprendizado por reforço: Nesse aprendizado você dá pontos quando a IA aprende e pune quando ela não aprende;
+		- Exemplo de um robô que deve apagar um fogo:
+			- 1. Observar;
+			- 2. Selecionar ação usando política;
+			- 3. Ação!;
+			- 4. Obter recompensa ou penalidade;
+			- 5. Política de atualização (etapa de aprendizado);
+			- 6. Repetir até que recolver a questão;
 
 ## Fontes:
 - https://desenvolve.kflix.com.br/
