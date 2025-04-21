@@ -86,6 +86,17 @@
 	</tbody>
 </table>
 
+## Onde encontramos a Inteligência Artificial na nossa vida?
+- Na barra de pesquisa do Google, tanto para imagem quanto para voz;
+- E-commerce: Mercado Livre, Shopee, na recomendação de produtos;
+- Chat-GPT;
+- Meta AI: inteligência artificial do Facebook, está no WhatsApp, e dá para conversar;
+- Siri da Apple;
+- Google Assistent: IA da Google, em celulares Android;
+- Alexa: Amazon;
+- Boa parte das IAs do dia a dia são IAs que trabalham com linguagem natural, entendem o que o usuário precisa e traduz para uma requisição de computador, trazendo resultados da internet;
+- Também são encontradas em semaforos inteligentes;
+
 ## Fontes:
 - https://desenvolve.kflix.com.br/
 	- Curso de inteligência artificial Korú - Ministrado por Luciano Soler - Eng. de Software;
