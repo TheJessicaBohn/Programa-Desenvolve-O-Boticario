@@ -87,7 +87,7 @@
 </table>
 
 ## Onde encontramos a Inteligência Artificial na nossa vida?
-- Na barra de pesquisa do Google, tanto para imagem quanto para voz;
+- Na barra de pesquisa do Google, tanto para imagem(até de códigos de barras) quanto para voz;
 - E-commerce: Mercado Livre, Shopee, na recomendação de produtos;
 - Chat-GPT;
 - Meta AI: inteligência artificial do Facebook, está no WhatsApp, e dá para conversar;
@@ -104,6 +104,15 @@
 - Na agropecuaria na analise de animais, comportamento, identificação e contagem;
 - Em câmera de estabelecimentos, para segurança, analise de quanto tempo um cliente fica, produtividade de funcionários;
 - No transporte: Google Maps e Waze por exemplo;
+
+## Ferramentas utilizadas durante as aulas:
+- Chat-GPT;
+- Google Gemini;
+- Microsoft Copilot;
+- Grok;
+- Perplexity;
+- DeepSeek;
+- Claude AI;
 
 ## Como o computador aprende?
 - Com arquivos, textos, imagens, vídeos, audios.
