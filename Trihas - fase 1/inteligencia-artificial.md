@@ -94,8 +94,16 @@
 - Siri da Apple;
 - Google Assistent: IA da Google, em celulares Android;
 - Alexa: Amazon;
+- Spotfy: streamings
 - Boa parte das IAs do dia a dia são IAs que trabalham com linguagem natural, entendem o que o usuário precisa e traduz para uma requisição de computador, trazendo resultados da internet;
 - Também são encontradas em semaforos inteligentes;
+- IAs em bancos para evitar fraudes e fazer verificações;
+- Na area da saúde softwares que podem identificar doenças como cancêr, entre outras, prioridade em filas, analises laboratoriais, protuarios eletronicos etc.
+- Na chine já existe "arquinhos" que mostra para os professores se o aluno está atento ou não;
+- Softwares na agricultura se em grandes palntações existe ervas daninhas, e coloca veneno apenas naquela erva daninha;
+- Na agropecuaria na analise de animais, comportamento, identificação e contagem;
+- Em câmera de estabelecimentos, para segurança, analise de quanto tempo um cliente fica, produtividade de funcionários;
+- No transporte: Google Maps e Waze por exemplo;
 
 ## Como o computador aprende?
 - Com arquivos, textos, imagens, vídeos, audios.
