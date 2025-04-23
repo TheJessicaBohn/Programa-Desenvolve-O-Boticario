@@ -106,13 +106,16 @@
 - No transporte: Google Maps e Waze por exemplo;
 
 ## Ferramentas utilizadas durante as aulas:
-- Chat-GPT;
-- Google Gemini;
+- Chat-GPT(mais utilizada);
+- Google Gemini(logotipos, imagens e audios);
 - Microsoft Copilot;
-- Grok;
-- Perplexity;
+- Grok(pesquisa);
+- Perplexity(pesquisa);
 - DeepSeek;
 - Claude AI;
+
+## Como fazer perguntas inteligentes para as IAs
+- Não faça perguntas muito abertas e genéricas e sim perguntas o mais especificas possíveis;
 
 ## Como o computador aprende?
 - Com arquivos, textos, imagens, vídeos, audios.
