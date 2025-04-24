@@ -113,9 +113,17 @@
 - Perplexity(pesquisa);
 - DeepSeek;
 - Claude AI;
+- Canva;
 
 ## Como fazer perguntas inteligentes para as IAs
 - Não faça perguntas muito abertas e genéricas e sim perguntas o mais especificas possíveis;
+- Me dê exemplo de um curriculo profissional, como redistribuir digitalmente;
+- Modos de trabalho não CLT, ou informais;
+- adequação de textos; 
+
+## Utilização de outras ferramentas:
+- No Canva a opção de criar um .doc com o curriculo;
+- Exportar para PDF ou .docx, em A4;
 
 ## Como o computador aprende?
 - Com arquivos, textos, imagens, vídeos, audios.
