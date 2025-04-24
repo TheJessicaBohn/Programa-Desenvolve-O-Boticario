@@ -119,7 +119,8 @@
 - Não faça perguntas muito abertas e genéricas e sim perguntas o mais especificas possíveis;
 - Me dê exemplo de um curriculo profissional, como redistribuir digitalmente;
 - Modos de trabalho não CLT, ou informais;
-- adequação de textos; 
+- adequação de textos;
+- Detalhar a pergunta para que a IA nos entregue exatamente o que a gente deseja;
 
 ## Utilização de outras ferramentas:
 - No Canva a opção de criar um .doc com o curriculo;
@@ -139,6 +140,31 @@
 			- 4. Obter recompensa ou penalidade;
 			- 5. Política de atualização (etapa de aprendizado);
 			- 6. Repetir até que recolver a questão;
+
+## O que é engenharia de prompt?
+- É o jeito certo de conversar com a IA, como se fosse  dar uma instrução bem clara para alguém te ajudar;
+- Exemplo dia a dia: Quando você pede  para uma criança "pega ali  o copo azul com água, em cima da mesa", você está dando um comando claro. Com a IA é a mesma coisa: precisamos ser claros e objetivos;
+
+## Importância da tecnica:
+- A IA só entende bem, se a gente explicar bem;
+- Um comando malfeito pode trazer respostas erradas ou confusas;
+- Um bom prompt economiza tempo e gera respostas melhores;
+- Perguntas muito abertas podem gerar respostas muito abertas;
+- Exemplo:
+	- :x: "Me fale sobre empresas";
+	- :white_check_mark: "Liste 10 empresas de comida em salvador, com telefone e site";
+
+## Como ensinar as IAs a realizar tarefas:
+- A IA aprende com os exemplos que damos;
+- Quando falamos com a IA várias vezes e vai ajustando o que se quer, ela aprende o que é mais util;
+- Exemplo:
+	- Você pede a receita de um bolo;
+	- Depois pede para trocar o leite por água;
+	- Depois pede para deixar só 3 ingredientes;
+- Isso é ensinar a IA algo que você precisa;
+
+## Glossário:
+- **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
 
 ## Fontes:
 - https://desenvolve.kflix.com.br/
