@@ -125,6 +125,10 @@
 ## Utilização de outras ferramentas:
 - No Canva a opção de criar um .doc com o curriculo;
 - Exportar para PDF ou .docx, em A4;
+- Pode Exibir o link na web;
+- Pode compartilhar o link com um amigo até o momento que você modificou;
+- Exportar os dados;
+- Configurações de privacidade;
 
 ## Como o computador aprende?
 - Com arquivos, textos, imagens, vídeos, audios.
@@ -153,6 +157,14 @@
 - Exemplo:
 	- :x: "Me fale sobre empresas";
 	- :white_check_mark: "Liste 10 empresas de comida em salvador, com telefone e site";
+	- :white_check_mark: Me ensine um jeito barato e caseiro de limpar o sofá, de tecido claro com produtos que tenho em casa, com vinagre, bicarbonao e detergente;
+	- :x: Como limpar sofá;
+	- :white_check_mark: Me indique plantas para locais escuros em apartamento
+	- :white_check_mark: me fale de plantas;
+	- :white_check_mark: Me indique o que eu posso fazer com x ingredientes;
+	- :x: Me fale o que eu posso cozinhar;
+	- :x: Dicas para vender mais;
+	- :white_check_mark: Tenho uma loja de roupas masculinas, quero saber como vender mais pelo WhatsApp;
 
 ## Como ensinar as IAs a realizar tarefas:
 - A IA aprende com os exemplos que damos;
@@ -162,6 +174,7 @@
 	- Depois pede para trocar o leite por água;
 	- Depois pede para deixar só 3 ingredientes;
 - Isso é ensinar a IA algo que você precisa;
+
 
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
