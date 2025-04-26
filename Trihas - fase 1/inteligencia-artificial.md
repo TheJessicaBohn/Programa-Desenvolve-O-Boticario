@@ -129,6 +129,7 @@
 - Pode compartilhar o link com um amigo até o momento que você modificou;
 - Exportar os dados;
 - Configurações de privacidade;
+- Editar perguntas feitas anteriormente;
 
 ## Como o computador aprende?
 - Com arquivos, textos, imagens, vídeos, audios.
@@ -174,6 +175,36 @@
 	- Depois pede para trocar o leite por água;
 	- Depois pede para deixar só 3 ingredientes;
 - Isso é ensinar a IA algo que você precisa;
+
+## Exemplos de prompts estruturados e não estruturados:
+- Prompts simples, sem objetivos e não estruturados:
+	- Dê dicas de alimentação saudável;
+	- Como posso economizar?
+	- Ideias de lazer em casa;
+	- Como responder clientes;
+	- Me ajude com o meu negócio;
+- Prompts estruturados e especificos:
+	- Sou uma senhora com pressão alta. Me sugira 5 alimentos saudáveis e baratos para incluir no almoço do dia a dia e incluir numa tabela no almoço do dia a dia, e me enclua uam tabela com informações de calorias dos alimentos;
+	- Ganho um salário minímo e moro com os meus dois filhos, como pode me dar 5 dias práticas de econômia no supermercado e nas contas de casa;
+	- Me sugira atividades divertidas e sem custo para fazer em casa com meus filhos pequenos no fim de semana;
+	- Sou costureira e uma cliente reclamou do prazo. Me ajude a escrever uma resposta educada, explicando o motivo do atraso e oferecendo uma solução;
+	- Tenho um pequeno negócio de bairro(mecanica), quais os principais passos para aprender marketing digital e começar a vender pela internet. Me apresente um guia detalhado passo a passo;
+	
+## Composição de um bom prompt:
+- 1. **Objetividade:** Ser direto e evitar ambiguidade;
+	- Sugira 3 ideias de macarrão rápidas e baratas que sejam simples e eu possa comprar em qualquer mercadinho;
+	- Crie um modelo comercial simples de limpeza residencial para clientes de bairro;
+	- Crie uma planilha simples para saídas e entradas de um comércio pequeno;
+	- Me 5 ideias de papelão para vender e com materiais reciclaveis;
+- 2. **Contexto:** Explicar quem está perguntando e o que deseja;
+	- Me ajude a montar um cronogrâma, sou dona de casa e tenho 2 filhos, e quero estudar costura, meus filhos vão a escola das 07h00 ao 12h00
+	- Tenho uma barraca de pastel, como fazer promoção pelo WhatsApp;
+- 3. **Formato da Resposta:** Definir se a resposta deve ser um texto, uma lista ou um resumo;
+	- Me de uma lista com 5 dicas para economizar energia em casa;
+	- Crie uma tabela com nome do cliente produto vendido e valor e forma de pagamento, preencha as 3 primeiras linhas com exemplos;
+	- Escreva um guia de estudo passo a passo de como aprender programação em 6 mêses, separe em blocos de duas semanas, sou totalmente leigo e só possuo um celular;
+- 4. **Exemplos:** Se possível, dar referências ou modelos do que se espera;
+- 5. **Personificação:** Pedir para a IA assumir um papel específico para um resultado mais realista;
 
 
 ## Glossário:
