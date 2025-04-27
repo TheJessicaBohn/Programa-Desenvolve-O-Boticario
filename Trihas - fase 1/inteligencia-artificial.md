@@ -130,6 +130,7 @@
 - Exportar os dados;
 - Configurações de privacidade;
 - Editar perguntas feitas anteriormente;
+- Criar e estilizar sites
 
 ## Como o computador aprende?
 - Com arquivos, textos, imagens, vídeos, audios.
@@ -188,7 +189,7 @@
 	- Ganho um salário minímo e moro com os meus dois filhos, como pode me dar 5 dias práticas de econômia no supermercado e nas contas de casa;
 	- Me sugira atividades divertidas e sem custo para fazer em casa com meus filhos pequenos no fim de semana;
 	- Sou costureira e uma cliente reclamou do prazo. Me ajude a escrever uma resposta educada, explicando o motivo do atraso e oferecendo uma solução;
-	- Tenho um pequeno negócio de bairro(mecanica), quais os principais passos para aprender marketing digital e começar a vender pela internet. Me apresente um guia detalhado passo a passo;
+	- Tenho um pequeno negócio de bairro(mecânica), quais os principais passos para aprender marketing digital e começar a vender pela internet. Me apresente um guia detalhado passo a passo;
 	
 ## Composição de um bom prompt:
 - 1. **Objetividade:** Ser direto e evitar ambiguidade;
@@ -204,8 +205,32 @@
 	- Crie uma tabela com nome do cliente produto vendido e valor e forma de pagamento, preencha as 3 primeiras linhas com exemplos;
 	- Escreva um guia de estudo passo a passo de como aprender programação em 6 mêses, separe em blocos de duas semanas, sou totalmente leigo e só possuo um celular;
 - 4. **Exemplos:** Se possível, dar referências ou modelos do que se espera;
+	- Crie uma frase como esta: "Está cansado de pagar caro em peças de carro? Aqui tem qualidade e preço justo!" Agora de um exemplo assim para o marmita da vovó;
+	- Quero algo parecido com: "Ofereço serviços de pedreiro com mais de 10 anos de experiência em reformas, pinturas e construções em geral. Orçamento sem compromisso". Agora faça para serviços de manicure;
 - 5. **Personificação:** Pedir para a IA assumir um papel específico para um resultado mais realista;
+	- Atue como um nutricionista popular de bairro. Dê 5 dicas baratas e fáceis para melhorar a alimentação de quem trabalha fora e e treina acadêmia a noite;
+	- Atue como um mecanico de carro com mais de 20 anos de experiência e explique o que é injeção eletrônica para uma criança de 5 anos;
 
+## Criando um site do zero:
+- Crie um site para minha mecânica, chamada Mecânica Poços.O sire deve conter todos os serviços que eu ofereço, conserto, regulagem de motores, suspenção freios e funilaria;
+
+## Refinamento de prompts:
+- **Pergunta Inicial:** Escreva um post sobre Inteligência Artificial;
+- **Resposta da IA:** Um texto genérico sem público-alvo definido;
+- **Prompt Refinado:** Escreva um post com 200 palavras sobre Inteligência Artificial explicando o conceito para empreendedores iniciantes;
+- **Resposta Melhorada:** Texto mais direcionado e útil para o público específico;
+
+## Quais as aplicações práticas para isso que vimos?
+- 1. **Criação de conteúdo** - Gerar textos, artigos e legengendas para redes sociais;
+- 2. **Pesquisa e aprendizado** - Obter explicações detalhadas sobre qualquer tema;
+- 3. **Assistência profissional** - Criar e-mails, resumos e apresentações com mais eficiência;
+- 4. **Otimização do tempo** - Automatizar tarefas repetitivas e agilizar processos;
+
+## Principais tipo de prompt:
+- **Prompts Conversacionais:** Envolvem interações contínuas e são úteis para tarefas exploratórias;
+- **Prompts One-Shot:** Oferecem todas as instruções necessárias de forma clara e objetiva em um único comando, ideal para automações;
+- **Prompts Compostos:** Conectam diferentes diretrizes e exemplos para tarefas mais complexas.
+- Janela de contexto(limite de infromação): refere-se a uma quantidade de informação que pode um modelo de Inteligência Artificial pode processar de uma só vez. Isso ajuda a entender como criar prompts que se encaixam nessa restrição; Atualmente(2025) nenhuma ferramenta das apresentadas nas aulas tem janela de contexto ilimitada;
 
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
