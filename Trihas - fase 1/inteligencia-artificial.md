@@ -232,6 +232,32 @@
 - **Prompts Compostos:** Conectam diferentes diretrizes e exemplos para tarefas mais complexas.
 - Janela de contexto(limite de infromação): refere-se a uma quantidade de informação que pode um modelo de Inteligência Artificial pode processar de uma só vez. Isso ajuda a entender como criar prompts que se encaixam nessa restrição; Atualmente(2025) nenhuma ferramenta das apresentadas nas aulas tem janela de contexto ilimitada;
 
+## Pesquisas na internet com as IAs:
+- Usar o botão (Buscar) no Chat-GPT; -> traz as fontes
+- No Gemini buscar direto; -> opção de esportart pra planilha
+- Na Grok botão (DeepSearch); -> mais demorado mas com pesquisa mais apurada, traz até um considerações;
+- Na Qwen botão (Pesquisar); -> traz resultado pareciso com o Chat-GPT, porém é bom verificar se está atualizado;
+- Perplexity buscar direto; -> tabela com as fontes
+- Exemplos:
+	- Faça uma tabela comparativa de preços de motos até 200 cilindradas, vendidas no site olx.com.br e apresente em uma tabela com colunas de modelo e preço;
+	- Compare o preço de sabão em pó em 5 mercados da minha cidade (Poços de Caldas), e me apresente uma tabela com com marca do produto, preço, mercado e endereço;
+	- Encontre o preço mais barato de sabão em pó Omo de 1kg em 10 mercados da minha cidade e apresente em uma tabela com nome do mercado, preço, e endereço;
+	- Apresente uma tabela de vagas de empregos do site catho.com.brpara minha região (Poços de Caldas), cargo auxiliar administrativo que tenham sido inseridas em 2025;
+	
+## Dicas:
+- Se você precisa criar um contrato de serviço para um cliente importante, você pode pedir para a IA fazer 5 a 10 perguntas para você responder e com base em suas respostas ele vai criar o texto que você precisa;
+- Isso pode ser feito para varias coisas, para dicas de produtividade, emagrecimento, desenvolvimento de habilidades;
+- "Aquecer" a IA antes de pedir alguma correção de texto:
+- Exemplo:
+	- "Me apresente as 10 melhores boas práticas para a criação de um bom currículo;
+	- Depois você envia o seu currículopara a IA e escreve: "Com base nas boas práticas apresentadas corrija, e sugira boas práticas que eu posso aplicar no meu currículo para melhora-lo;
+- **Assuma a responsabilidade:** Aceite a responsabilidade pela qualidade da sáida e refine continuadamente seus prompts;
+- **Seja específico:** Forneça instruções detalhadas e claras sem enchimento ou penugem;
+- **Use exemplos do mundo real:** Mostre à IA o que você deseja incluindo exemplos;
+- **Experimentar com estruturas:** Testes diferentes estruturas de entrada para ver como elas afetam a saída;
+- **Pratique diariamente:** A prática regular e a iteração são cruciais para dominar a engenharia rápida;
+- Se você não deixar claro o que quer, a IA irá advinhar: **Seu trabalho é fazer com que ela advinhe menos"
+
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
 
