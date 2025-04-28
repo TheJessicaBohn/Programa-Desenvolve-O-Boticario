@@ -258,6 +258,17 @@
 - **Pratique diariamente:** A prática regular e a iteração são cruciais para dominar a engenharia rápida;
 - Se você não deixar claro o que quer, a IA irá advinhar: **Seu trabalho é fazer com que ela advinhe menos"
 
+## Personalizando o Chat-GPT:
+- Apresentar ferramentas de IA voltadas  a criação de conteúdo digital;
+- Como funcionaa criação de conteúdos utilizando IA;
+- Criando textos e imagens com IA;
+- Produção de vídeos e animações;
+- Produção de audios;
+- Produção de música;
+- Configurar um perfil no Chat-GPT;
+- Como funcionam os gpts(Chat-GPT ou Gemini);
+- Estruturas dos robos;
+
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
 
