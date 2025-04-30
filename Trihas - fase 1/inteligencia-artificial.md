@@ -269,6 +269,13 @@
 - Como funcionam os gpts(Chat-GPT ou Gemini);
 - Estruturas dos robos;
 
+## Como funcionam os robôs:
+- Robôs criados por outros programadores são gratuítos, mas um personalizado é pago:
+	- Explorar Chat-GPT;
+	- Boa parte da pesquisa você deve procuar algo qu você queira;
+	- Tem algumas colunas filtradas com o que você pode escolher: estudo, programação, pesquisa, canva, gerador de site etc;
+	- Robôs tem notas, sempre verificar;
+
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
 
