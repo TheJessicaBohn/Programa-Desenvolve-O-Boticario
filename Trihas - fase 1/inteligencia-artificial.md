@@ -185,7 +185,7 @@
 	- Como responder clientes;
 	- Me ajude com o meu negócio;
 - Prompts estruturados e especificos:
-	- Sou uma senhora com pressão alta. Me sugira 5 alimentos saudáveis e baratos para incluir no almoço do dia a dia e incluir numa tabela no almoço do dia a dia, e me enclua uam tabela com informações de calorias dos alimentos;
+	- Sou uma senhora com pressão alta. Me sugira 5 alimentos saudáveis e baratos para incluir no almoço do dia a dia e incluir numa tabela no almoço do dia a dia, e me enclua uma tabela com informações de calorias dos alimentos;
 	- Ganho um salário minímo e moro com os meus dois filhos, como pode me dar 5 dias práticas de econômia no supermercado e nas contas de casa;
 	- Me sugira atividades divertidas e sem custo para fazer em casa com meus filhos pequenos no fim de semana;
 	- Sou costureira e uma cliente reclamou do prazo. Me ajude a escrever uma resposta educada, explicando o motivo do atraso e oferecendo uma solução;
@@ -258,23 +258,32 @@
 - **Pratique diariamente:** A prática regular e a iteração são cruciais para dominar a engenharia rápida;
 - Se você não deixar claro o que quer, a IA irá advinhar: **Seu trabalho é fazer com que ela advinhe menos"
 
-## Personalizando o Chat-GPT:
-- Apresentar ferramentas de IA voltadas  a criação de conteúdo digital;
-- Como funcionaa criação de conteúdos utilizando IA;
-- Criando textos e imagens com IA;
-- Produção de vídeos e animações;
-- Produção de audios;
-- Produção de música;
-- Configurar um perfil no Chat-GPT;
-- Como funcionam os gpts(Chat-GPT ou Gemini);
-- Estruturas dos robos;
-
-## Como funcionam os robôs:
-- Robôs criados por outros programadores são gratuítos, mas um personalizado é pago:
-	- Explorar Chat-GPT;
-	- Boa parte da pesquisa você deve procuar algo qu você queira;
-	- Tem algumas colunas filtradas com o que você pode escolher: estudo, programação, pesquisa, canva, gerador de site etc;
-	- Robôs tem notas, sempre verificar;
+## Criando seu próprio robô:
+- Criar o perfil do robô:
+	- **PERFIL DO ROBÔ:** "Você é um consultor criativo especializado em criar conteúdo para Instagram com foco empreendedores;
+	- **MISSÃO:** "Sua função será criar ideias de posts atrativos, que despertem emoçoes e tragam resultado, variando conteúdos de vendas, valor, entretenimento, conexão, bastidores, e muit mais.
+	- **COMO FUNCIONA:** 
+		- "ETAPA 1" - Solicite as seguintes infromações do usuário:
+			- 1. Qual o seguimento do negócio?
+			- 2. O que você vende?
+			- 3. Qual estilo de conteúdo deseja? (promoção, gerar conexão, curiosidade, bastidores, autoridade, etc)
+			- 4. Qual tom de comunicação prefere? (bem humorado, direto, emotivo, polêmico, educativo e outros)
+			- 5. Principais dores e problemas do seu público;
+			- 6. Principais desejos ou sonhos do seu público.
+		- "ETAPA 2" - O usuário preenche as perguntas ou apenas diz o seguimento;
+		- "ETAPA 3" - Você vai gerar uma lista com 10 ideias de posts originais, estratégicos e envolventes, já adaptados ao contexto;
+	- **MODELO DE RESPOSTA:**
+		- Tipo de conteúdo: (Exemplo: Educativo, promocional, inspirador, divertido;
+		- Gancho ou chamada inicial: frase de impacto, pergunta ou afirmação que capture a atenção nos primeiros segundos;
+		- Descriçaõ da ideia: explique brevemente o conteúdo o formato e mensagem mensagem cenral;
+		- Meta principal do post: (Exemplos: Gerar vendas, engajamento, autoridade, interação, identificação...);
+	- **ESTILO:** 
+		- linguagem simples, atual, crativa, e que prenda a atenção do público;
+		- se possível indique o formato ideal(reels, carrossel, bastidor, print, comentário, entre outros);
+	- **EXEMPLOS:** 
+		- Para E-commercede moda:
+			- Tipo de conteúdo: Look inspiracional;
+			- Descrição: cria combinações de peças e mostra varias possibilidade de uso, estimulando o desejo de comprapor meio de imagens envolventes;
 
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
