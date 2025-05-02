@@ -285,6 +285,155 @@
 			- Tipo de conteúdo: Look inspiracional;
 			- Descrição: cria combinações de peças e mostra varias possibilidade de uso, estimulando o desejo de comprapor meio de imagens envolventes;
 
+## Personalizando o Chat-GPT:
+- Apresentar ferramentas de IA voltadas  a criação de conteúdo digital;
+- Como funciona a criação de conteúdos utilizando IA;
+- Criando textos e imagens com IA;
+- Produção de vídeos e animações;
+- Produção de audios;
+- Produção de música;
+- Configurar um perfil no Chat-GPT;
+- Como funcionam os gpts(Chat-GPT ou Gemini);
+- Estruturas dos robos;
+
+## Como funcionam os robôs:
+- Robôs criados por outros programadores são gratuítos, mas um personalizado é pago:
+	- Explorar Chat-GPT;
+	- Boa parte da pesquisa você deve procuar algo qu você queira;
+	- Tem algumas colunas filtradas com o que você pode escolher: estudo, programação, pesquisa, canva, gerador de site etc;
+	- Robôs tem notas, sempre verificar;
+
+## Gerando imagens com IAs:
+- Remoção de objetos dentro da imagem: https://cleanup.pictures/;
+- Remoção de fundo: https://www.remove.bg/pt-br;
+- Adobe Firefly: https://firefly.adobe.com/;
+- Criação de imagens:
+	- Um prompt nada mais é do que uma frase bem explicada para a IA entender o que você quer;
+	- A estrutura básica é assim: **[O que você quer ver],[ângulo], [estilo], [detalhes], [ambiente], [qualidade]**;
+<table>
+	<thead>
+		<tr>
+			<th align="center"> Elemento </th>
+			<th align="center"> Explicação </th>
+			<th align="center"> Exemplo Simples </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center"> O que você quer ver </td>
+			<td align="center"> Assunto da Imagem </td>
+			<td align="center"> Uma mulher vendendo frutas </td>
+		</tr>
+		<tr>
+			<td align="center"> Estilo </td>
+			<td align="center"> O tipo e arte ou fotografia </td>
+			<td align="center"> Estilo realista, desenho infantil, 3D, aquarela, futurista </td>
+		</tr>
+		<tr>
+			<td align="center"> Detalhes </td>
+   			<td align="center"> Caracteristicas extras </td>
+			<td align="center"> Roupas simples, sorriso no rosto, barraca de feira </td>
+		</tr>
+		<tr>
+			<td align="center"> Ambiente </td>
+   			<td align="center"> Onde acontece </td>
+			<td align="center"> Feira ar livre, dia de sol </td>
+		</tr>
+		<tr>
+			<td align="center"> Qualidade </td>
+   			<td align="center"> Alta qualidade </td>
+			<td align="center"> Alta definição, 8k, definição 4k </td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<thead>
+		<tr>
+			<th align="center"> Estilo </th>
+			<th align="center"> Explicação </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center"> Realista </td>
+			<td align="center"> Parece foto de verdade </td>
+		</tr>
+		<tr>
+			<td align="center"> Desenho infantil </td>
+			<td align="center"> Como se fosse feito para crianças </td>
+		</tr>
+		<tr>
+			<td align="center"> Aquarela </td>
+   			<td align="center"> Tintura com tinta aguada </td>
+		</tr>
+		<tr>
+			<td align="center"> 3D </td>
+   			<td align="center"> Parece uma escultura ou animação </td>
+		</tr>
+		<tr>
+			<td align="center"> Vintage </td>
+   			<td align="center"> Estilo antes dos anos 80 </td>
+		</tr>
+		<tr>
+			<td align="center"> Minimalista </td>
+   			<td align="center"> Simples, limpo, com poucos detalhes </td>
+		</tr>
+		<tr>
+			<td align="center"> Futurista </td>
+   			<td align="center"> Coisas de outro tempo, tecnologia avançada </td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<thead>
+		<tr>
+			<th align="center"> Termo </th>
+			<th align="center"> Explicação Simples </th>
+			<th align="center"> Exemplo </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center"> Vista de frente(frontal view) </td>
+			<td align="center"> Como se estivesse olhando de frente </td>
+			<td align="center"> Pessoa Sorrindo de frente </td>
+		</tr>
+		<tr>
+			<td align="center"> Vista de cima(top view ou bird's eye view) </td>
+			<td align="center"> Como se fosse uma foto tirada de cima </td>
+			<td align="center"> Uma feira vista de cima mostrando as barracas </td>
+		</tr>
+		<tr>
+			<td align="center"> Vista de baixo(low angle view) </td>
+			<td align="center"> Como se estivesse olahndo de baixo para cima </td>
+			<td align="center"> Arvore gigantesca vista de baixo </td>
+		</tr>
+		<tr>
+			<td align="center"> Pespectiva lateral(side view) </td>
+			<td align="center"> Mostra o lado do objeto ou pessoa </td>
+			<td align="center"> Carro visto de lado </td>
+		</tr>
+		<tr>
+			<td align="center"> Close-up </td>
+   			<td align="center"> bem perto, pegando detalhes </td>
+			<td align="center"> Somente as mãos, costura de roupa </td>
+		</tr>
+		<tr>
+			<td align="center"> Plano aberto(Wide shot) </td>
+			<td align="center"> Mostra cena inteira com ambiente </td>
+			<td align="center"> A praça inteira com pessoas conversando </td>
+		</tr>
+	</tbody>
+</table>
+- **Angulos diferentes, sentidos diferentes, tudo muda:
+	- **De cima:** controla, organiza;
+ 	- **De baixo:** grandioso, forte;
+  	- **De frente:** conversa, contato direto;
+   	- **De lado:** mais discreto;
+    	- **De perto:** detalhes, emoção;
+
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
 
