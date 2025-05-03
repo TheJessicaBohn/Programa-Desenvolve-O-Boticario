@@ -434,6 +434,12 @@
    	- **De lado:** mais discreto;
     	- **De perto:** detalhes, emoção;
 
+## Comparando imagens em diferentes IAs:
+- "Mulher humilde vendendo frutas em uma barraca de feira, estilo realista, roupas simples, sorrindo, céu limpo, luz natural, alta definição";
+- Geram imagens muito boas, porém com algumas questões por exemplo mãos com mais dedos;
+- Chat-GPT, Grok, Gemini; Adobe Firefly;
+- Criar logos com imagens "baseadas" e textos que você queira utilizar;
+
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
 
