@@ -451,7 +451,15 @@
 - Notebook LLM - Criação de Podcasts: https://notebooklm.google.com/;
 - Adobe Enhanced - melhorias no áudio: https://podcast.adobe.com/pt/enhance;
 - Elevenlabs - transformação de texto para voz: https://elevenlabs.io/;
-aula 6 e 7
+- Speechma - transformação de texto para voz: https://speechma.com/;
+- Suno - criação de músicas: https://suno.com/;
+
+##Utilização do Suno
+- Criaçao e estilização de musica;
+- Escolher estilo;
+- voz;
+- E fazer edições;
+
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
 
