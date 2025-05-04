@@ -440,6 +440,18 @@
 - Chat-GPT, Grok, Gemini; Adobe Firefly;
 - Criar logos com imagens "baseadas" e textos que você queira utilizar;
 
+## Criando Vídeos com IA:
+- Se você trabalhar em inglês com essas ferramentas, elas funcionaram melhor;
+- Pode usar fotos para se basear;
+- Krea IA é ótima pra mexer com geração de imagem, usar em inglês;
+	- Da para melhorar videos;
+	- aprender o prompt usado por outras pessoas
+	
+## Ferramentas de Podcast:
+- Notebook LLM - Criação de Podcasts: https://notebooklm.google.com/;
+- Adobe Enhanced - melhorias no áudio: https://podcast.adobe.com/pt/enhance;
+- Elevenlabs - transformação de texto para voz: https://elevenlabs.io/;
+aula 6 e 7
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
 
