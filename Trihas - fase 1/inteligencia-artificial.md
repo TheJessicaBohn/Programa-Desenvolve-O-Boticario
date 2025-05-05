@@ -454,12 +454,29 @@
 - Speechma - transformação de texto para voz: https://speechma.com/;
 - Suno - criação de músicas: https://suno.com/;
 
-##Utilização do Suno
+## Utilização do Suno
 - Criaçao e estilização de musica;
 - Escolher estilo;
 - voz;
 - E fazer edições;
 
+## Learning Prompts:
+- https://learnprompting.org/pt/docs -> dicas de como aprender prompts para Inteligência Artificial;
+- Mostra bem passo a passo as matérias da aula;
+- Formatos, exemplos;
+- Alucinações;
+- Vieses, como bloquear;
+- Parte da documantação pode não estar traduzido;
+- Negócios;
+- Contratos;
+- Resumos;
+- LLMs;
+- Agentes: tipo batchs;
+- MidJourney;
+- Hack de prompt;
+- Automação de sistemas;
+- Ferramentas;
+ 
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
 
