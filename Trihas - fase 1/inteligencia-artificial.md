@@ -476,6 +476,22 @@
 - Hack de prompt;
 - Automação de sistemas;
 - Ferramentas;
+
+## Google e IA Studio:
+- Ferramenta para desenvolvimento de software;
+- Com Inteligência Artificial;
+- Gratuíta;
+- Criaçaõ de APIs;
+- Pode usaro o Gemini ou o Uma chave de API;
+- Recursos mais avançados que o Gemini;
+- Chave Gratuíta x Chave paga = limitação de tempo por quantidade de coisas pedidas;
+- Compartilhamento do com imagens de compartilhamento de tela e camera para o IA da Google;
+- Ajuda com software de reconhecimento de imagem;
+- Mostra localizações no mapa;
+- Tutores;
+- Analises de texto;
+- Configuração de Docker;
+- Fórum de desenvolvedores;
  
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
