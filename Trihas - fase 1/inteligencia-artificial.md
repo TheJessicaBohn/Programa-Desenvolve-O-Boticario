@@ -492,6 +492,33 @@
 - Analises de texto;
 - Configuração de Docker;
 - Fórum de desenvolvedores;
+
+## Baselabs e Heygen:
+**Baselabs:**
+- Conjunto de ferramentas que trazem muitas micro ferramentas e cada uma delas faz algumas coisas, tem varios aplicativos e eles ajudam você de varias formas;
+- Texto para vídeos;
+- Flux pro;
+- Head Shots;
+- Face swape;
+- Image to text -> imagem para texto;
+- Image Upscalers: fazer melhorias, na qualidade da foto;
+- AI selfie generator;
+- Geração de caracteres;
+- Remover fundo;
+- Criação de tatuagem;
+- Voice generetor;
+- OutFit Generator -> toupas em pessoas diferentes;
+- Musica a parttir de texto;
+- Paragraph generator;
+- Tiktok Hashtag generator;
+- Gender swap -> pra torcar o sexo;
+- etc...
+- RugFace pode baixar o modelo para o meu computador e executar direto pelo meu computador;
+**Heygen:**
+- Ajuda a gente a fazer um clone seu;
+- Da pra usar API, para criar posts por exemplo;
+- Cria avatares, e faz videos para serem usados em redes sociais
+- Pode escolher texto, aparência e voz, já pré existentes no sistema;
  
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
