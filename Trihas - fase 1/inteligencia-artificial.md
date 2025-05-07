@@ -444,7 +444,7 @@
 - Se você trabalhar em inglês com essas ferramentas, elas funcionaram melhor;
 - Pode usar fotos para se basear;
 - Krea IA é ótima pra mexer com geração de imagem, usar em inglês;
-	- Da para melhorar videos;
+	- Da para melhorar vídeos;
 	- aprender o prompt usado por outras pessoas
 	
 ## Ferramentas de Podcast:
@@ -517,7 +517,7 @@
 **Heygen:**
 - Ajuda a gente a fazer um clone seu;
 - Da pra usar API, para criar posts por exemplo;
-- Cria avatares, e faz videos para serem usados em redes sociais
+- Cria avatares, e faz vídeos para serem usados em redes sociais
 - Pode escolher texto, aparência e voz, já pré existentes no sistema;
 
 ## TLDV e Napkin:
@@ -534,7 +534,20 @@
 - Explicação de slides e explicações em aulas;
 - Tem varios modelos, mais que no power point;
 - Ele consegue pegar as descrições e preencher cada um dos itens;
-- Você pode alimentar com conteúdo ou a IA pode gerar pra você; 
+- Você pode alimentar com conteúdo ou a IA pode gerar pra você;
+- Cole o conteúdo e na bolinha azul com raio, ele gera a parte visual para você;
+- Pode escolher as cores do layout gerado;
+- E cor de fundo pode ser transparente;
+
+## Gamma AI:
+- Criação de apresentações automaticas;
+- Criação de site;
+- Criação de e-book;
+- Com Ilustrações imagens;
+- Pode alimentar com os seus textos;
+- Criação de mídias sociais;
+- Pode montar pra pstar diretamente no linkedin;
+- etc;
  
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
