@@ -541,13 +541,17 @@
 
 ## Gamma AI:
 - Criação de apresentações automaticas;
-- Criação de site;
+- Criação de site, apenas visual sem interações;
 - Criação de e-book;
 - Com Ilustrações imagens;
 - Pode alimentar com os seus textos;
 - Criação de mídias sociais;
 - Pode montar pra pstar diretamente no linkedin;
 - etc;
+
+## Replit:
+- Cria aplicativos e sites com interações, com botões;
+- Melhor que o site do Gamma;
  
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
