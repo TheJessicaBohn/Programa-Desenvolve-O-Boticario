@@ -519,6 +519,22 @@
 - Da pra usar API, para criar posts por exemplo;
 - Cria avatares, e faz videos para serem usados em redes sociais
 - Pode escolher texto, aparência e voz, já pré existentes no sistema;
+
+## TLDV e Napkin:
+**TLDV:**
+- É uma ferramenta de IA que podemos utilizá-la para criação de conteúdo de vídeo;
+- Tem uma reunião e ele vai transcrever toda a reunião em texto;
+- Pode gravar as reuniões e ter os áudios transcritos;
+- Ele entra como uma pessoa a mais na reunião, e fica lá como uma pessoa a mais escutando;
+- Ele transcreve quem falou o que;
+- Ele pode ser usado como plugin ou instalado na sua maquina;
+- Salva notas no calendário da Google, podendo vir da reunião ou do notion;
+**Napkin:**
+- Guardanapo em português;
+- Explicação de slides e explicações em aulas;
+- Tem varios modelos, mais que no power point;
+- Ele consegue pegar as descrições e preencher cada um dos itens;
+- Você pode alimentar com conteúdo ou a IA pode gerar pra você; 
  
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
