@@ -552,6 +552,38 @@
 ## Replit:
 - Cria aplicativos e sites com interações, com botões;
 - Melhor que o site do Gamma;
+
+## Novas Ferramentas:
+**There`s an AI for that"
+- Sempre que você quiser conhecer uma inteligência artificial nova;
+- Tem desde:
+	- Infográficos;
+	- Vídeos dedicados a animes;
+	- Agentes;
+	- Sumarização de texto;
+	- Clone de voz;
+	- Sendo opens e pagas;
+	- Pode filtrar qeu tipo quer;
+	- Da pra ver Eventos de IAs;
+	- News;
+**poe.com**
+- Você pode testar gratuítamente diversas ferramentas de inteligência artificial;
+- Podendo testar todos juntos ou isoladamente;
+- Comparar o funcionamento de cada uma;
+- Pode também criar bots;
+**Make**
+- Opção de automatizar coisas;
+- Todo dia a minha Ferramenta entra num site pega os dados do site, e joga para a Inteligência Artificial, ele cria posts, gera as imagens e postas nas minhas redes sociais;
+- Ele pode fazer uma farredura dos seus e-mails;
+- E com as informações do seu e-mail configuradas, e postar numa rede social;
+**N8N**
+- É parecida com a make, mas para ser gratuíta deve ser instalada no computador;
+**Zapier**
+- Mais fraca das 3;
+**Elisa OS**
+- Sistema operacional com IA, parecido com um linux;
+- Voltado pra cripto moedas;
+- Está sendo construído ainda;
  
 ## Glossário:
 - **Contexto:** é a situação ou cenário que ajuda a entender melhor uma informação. É dar um pouco mais de detalhe para que a outra pessoa (ou IA) entenda exatamente o que você quer;
