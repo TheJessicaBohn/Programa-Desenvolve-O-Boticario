@@ -11,7 +11,7 @@
 - Dados são informações que podemos coletar, mensurar e analisar para gerar conhecimento;
 - Sempre que queremos resolver um problema ou responder a uma pergunta, recorremos a dados;
 	- **Exemplos:**
-	- "Qual é a pizzaria mais barata e mais godtosa perto de casa?"
+	- "Qual é a pizzaria mais barata e mais gostosa perto de casa?"
 	- "Qual plataforma de streaming tem aquele filme que eu quero assistir hoje?"
 - Dados são informações não tratadas;
 **Tipos de Dados:**
@@ -80,8 +80,20 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 	- Segurança da Informação: A proteção e segurança dos dados são vitais, especialmente com o aumento do volume de informações sensíveis que são armazenadas;
 
 ## Armazenamento de infromações em "Arquivos":
+**Objetivos:**
+- Compreender a função dos aqrquivos no armazenamento;
+- Diferenciar os principais tipos de arquivos de dados: CSV, JSON e Google Sheets;
+- Identificar aplicações práticas de cada tipo de arquivo;
+**Tipos de Arquivos:**
+- Planilha(Feita no Google Sheets);
+	- Vantagens: Oferece variedade de recursos avançados, como fórmulas, gráficos e tabelas dinâmicas, o que torna ideal para análises complexas;
+- JSON: JavaScript Object Notation, tipo de padronização especifica para trabalhar com JavaScript, e cada { } traz dados de cada linha da tabela;
+	- Limitações embora o JSON seja eficaz para tratar de dados complexos, ele não é tão eficiente em termos de desempenho para grandes volumes de dados em comparação com o CSV;
+- CSV: também é uma tabela, possui um caracter(;) de separação, entre uma coluna e outra. No código da pra saber onde começa e termina o dado por meio de indicadores de separadores;
+	- Formato simples e universal, fácil de ler e escrever, e amplamente suportado, sendo excelente para troca de dados entre diferentes sistemas.
 
- 
+## Armazemento Amnual VS Automatizado
+
 ## Ferramentas
 - Google Sheets;
 
