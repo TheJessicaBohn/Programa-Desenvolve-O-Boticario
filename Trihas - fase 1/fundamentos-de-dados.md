@@ -62,7 +62,26 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 		- Apriomoramento continuio;
 	
 ## Formas de armazenamento de dados:
-	
+### História do armazenamento de dados:
+**Objetivos:**
+- Explorar a evolução dos métodos de armazenamento de dados;
+- Compreender como as necessidades de armazenamento mudaram ao longo do tempo;
+- Comparar os métodos antigos e modernos de armazenamento;
+**Linha do tempo:**
+- Papiro: Antigo Egito, AC, caule de uma planta, escrita, registros da epoca e religiosos;
+- Pergaminho: Material mais maleavel, reutilizavel(possível apagar), 200a   
+- Papel: Atual, China seculo XII, vem da madeira, ecologia exige menos papel sendo trocado pela documentação digital, kindle etc;
+- Cartões Perfurados: Dispositivo de plático, perfurado, e ops furos representavam os dados binários, inventado por Joseph Marie Jacquard, e Herman Holierith no sec XIX, parra o senso dos EUA em 1890, amrmazenava "códigos" de programação; 
+- HDs, SSDs: LPs, CDs, Fitas Cacetes, HDs e SSDs(pendrives);
+- Núvem(Cloud): Dá a ideia de não se saber onde estão os dados, e o armazenamento é pago de acordo com o espaço necessário, Cloud Computing, um data center com muitas maquinas;
+**Desafios**
+- Existem vários desafios modernos de armazenamento dos dados, tais como:
+	- Crescimento dos Dados: Com o fenômeno, Big Data, a quantidade de dados gerados está aumentando exponencialmente, tornando essêncial um gerenciamento eficiente desses dados.
+	- Segurança da Informação: A proteção e segurança dos dados são vitais, especialmente com o aumento do volume de informações sensíveis que são armazenadas;
+
+## Armazenamento de infromações em "Arquivos":
+
+ 
 ## Ferramentas
 - Google Sheets;
 
