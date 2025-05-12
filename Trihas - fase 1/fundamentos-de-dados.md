@@ -93,6 +93,52 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 	- Formato simples e universal, fácil de ler e escrever, e amplamente suportado, sendo excelente para troca de dados entre diferentes sistemas.
 
 ## Armazemento Amnual VS Automatizado
+**Objetivos:**
+- Comparar os métodos de armazenamento manual e digital.
+- Explorar as vantqagens e desafios de cada abordagem;
+- Demonstrar como a digitalização facilita o gerencimento de dados;
+** Armazemento Manual**
+- Exemplos: Registros físico, livros contábeis, fichários.
+- Caracteristicas: Exige espaço físico, organização manual e maior risco de perda;
+- Desafios: Busca de dados dificil, demanda de espaço físico, "estoque"
+**Armazenamento Digital**
+- Exemplos: Arquivos eletrênicos, banco de dados, armazenamento em nuvém;
+- Caracteristicas: Acesso rápido, segurança, aprimorada, automação;
+- Desafios: Flexibilidade fácil, backup, integração com outros sistemas;
+- Tabela comparativa: Observe a ta abaixo que compara o método manual, com o método digital de armazenamento:
+<table>
+	<thead>
+		<tr>
+			<th align="center"> Critério </th>
+			<th align="center"> Armazenamento Manual </th>
+			<th align="center"> Armazenamento Digital </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center"> **Acesso** </td>
+			<td align="center"> Lento e manual </td>
+			<td align="center"> Instantâneo e remoto </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> **Segurança** </td>
+			<td align="center"> Sujeito a perdas físicas </td>
+			<td align="center"> Backups e criptografia </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> **Capacidade** </td>
+			<td align="center"> Limitada ao espaço físico</td>
+			<td align="center"> Virtualmente ilimitada </td>
+		</tr>
+	</tbody>
+</table>
+
+## Introdução a Banco de Dados
+**Objetivos:**
 
 ## Ferramentas
 - Google Sheets;
