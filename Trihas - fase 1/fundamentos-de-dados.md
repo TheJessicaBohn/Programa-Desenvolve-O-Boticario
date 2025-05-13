@@ -105,13 +105,13 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Exemplos: Arquivos eletrênicos, banco de dados, armazenamento em nuvém;
 - Caracteristicas: Acesso rápido, segurança, aprimorada, automação;
 - Desafios: Flexibilidade fácil, backup, integração com outros sistemas;
-- Tabela comparativa: Observe a ta abaixo que compara o método manual, com o método digital de armazenamento:
+- **Tabela comparativa**: Observe a ta abaixo que compara o método manual, com o método digital de armazenamento:
 <table>
 	<thead>
 		<tr>
-			<th align="center"> Critério </th>
-			<th align="center"> Armazenamento Manual </th>
-			<th align="center"> Armazenamento Digital </th>
+			<th align="center"> **Critério** </th>
+			<th align="center"> **Armazenamento Manual** </th>
+			<th align="center"> **Armazenamento Digital** </th>
 		</tr>
 	</thead>
 	<tbody>
@@ -139,6 +139,59 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 
 ## Introdução a Banco de Dados
 **Objetivos:**
+- Compreender o conceito de banco de dados;
+- Diferenciar uma planilha simples de um banco de dados mais complexo;
+- Introduzir o conceito de SGBD(Sistema de Gerenciamanto de Banco de Dados);
+**Conjunto Organizado de infromações armazenadas digitalmente:**
+- Exemplos: Lista de clientes, registros médicos, informações de produtos;
+- Objetivo: Facilitar o acesso, a organização e segurança de dados;
+- Ilustarção: Repressentação de um banco de dados "centtralizado";
+**Explicação**
+- No banco de dados é possivel ter acesso a tudo que a empresa faz;
+- E em cima desse banco é construído um sistema, e através de telas de cadastro ou consultas e relatórios;
+- Assim o usuário pode acessao banco;
+- O sistema então é para garantir que informações consistentes sejam introduzidas no banco;
+- O Sistema faz a parte de validações, de dados válidos ou não, faltando parte de dados que deveriam ser obrigatórios;
+- è possível fazer todas as verificações no banco, mas a priori, o ideal é fazer via sistema;
+- My sql, firebird, cassandra, oracle, etc...
+- Segurança: criptografia, controle de acesso;
+**Planilha x Banco de Dados:**
+- Comparação: a planilha é ideal para poucas informações, pois é difícil escalar. O banco de dados faz a gerencia de milhares de registros de forma estruturada
+- O banco de dados faz o controle de milhares de registros de forma rápida;
+- Já a plçanilha por mais recursos que ele tenha ainda é apenas um repositório de dados;
+- Campos x linhas;
+- Relacionamento das tabelas; 
+**Tabela comparativa:** Observe a tabela abaixo que compara algumas vcaracteristicas dessas duas formas de armazenar informações:
+<table>
+	<thead>
+		<tr>
+			<th align="center"> **Critério** </th>
+			<th align="center"> **Planilha** </th>
+			<th align="center"> **Banco de Dados** </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center"> **Armazemento** </td>
+			<td align="center"> Limitado </td>
+			<td align="center"> Grandes volumes de dados </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> **Relacionamento** </td>
+			<td align="center"> Dados independentes </td>
+			<td align="center"> Backups e criptografia </td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td align="center"> **Segurança** </td>
+			<td align="center"> Controle básico </td>
+			<td align="center"> Acesso por permissões </td>
+		</tr>
+	</tbody>
+</table>
 
 ## Ferramentas
 - Google Sheets;
