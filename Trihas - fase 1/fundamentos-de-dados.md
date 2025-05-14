@@ -109,28 +109,28 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 <table>
 	<thead>
 		<tr>
-			<th align="center"> **Critério** </th>
-			<th align="center"> **Armazenamento Manual** </th>
-			<th align="center"> **Armazenamento Digital** </th>
+			<th align="center"> <b>Critério </th>
+			<th align="center"> <b>Armazenamento Manual </th>
+			<th align="center"> <b>Armazenamento Digital </th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center"> **Acesso** </td>
+			<td align="center"> <b>Acesso </td>
 			<td align="center"> Lento e manual </td>
 			<td align="center"> Instantâneo e remoto </td>
 		</tr>
 	</tbody>
 	<tbody>
 		<tr>
-			<td align="center"> **Segurança** </td>
+			<td align="center"> <b>Segurança </td>
 			<td align="center"> Sujeito a perdas físicas </td>
 			<td align="center"> Backups e criptografia </td>
 		</tr>
 	</tbody>
 	<tbody>
 		<tr>
-			<td align="center"> **Capacidade** </td>
+			<td align="center"> <b>Capacidade </td>
 			<td align="center"> Limitada ao espaço físico</td>
 			<td align="center"> Virtualmente ilimitada </td>
 		</tr>
@@ -160,33 +160,34 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - O banco de dados faz o controle de milhares de registros de forma rápida;
 - Já a plçanilha por mais recursos que ele tenha ainda é apenas um repositório de dados;
 - Campos x linhas;
-- Relacionamento das tabelas; 
+- Relacionamento das tabelas;
+  
 **Tabela comparativa:** Observe a tabela abaixo que compara algumas vcaracteristicas dessas duas formas de armazenar informações:
 <table>
 	<thead>
 		<tr>
-			<th align="center"> **Critério** </th>
-			<th align="center"> **Planilha** </th>
-			<th align="center"> **Banco de Dados** </th>
+			<th align="center"> <b>Critério </th>
+			<th align="center"> <b>Planilha </th>
+			<th align="center"> <b>Banco de Dados </th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center"> **Armazemento** </td>
+			<td align="center"> <b>Armazemento </td>
 			<td align="center"> Limitado </td>
 			<td align="center"> Grandes volumes de dados </td>
 		</tr>
 	</tbody>
 	<tbody>
 		<tr>
-			<td align="center"> **Relacionamento** </td>
+			<td align="center"> <b>Relacionamento </td>
 			<td align="center"> Dados independentes </td>
 			<td align="center"> Backups e criptografia </td>
 		</tr>
 	</tbody>
 	<tbody>
 		<tr>
-			<td align="center"> **Segurança** </td>
+			<td align="center"> <b>Segurança </td>
 			<td align="center"> Controle básico </td>
 			<td align="center"> Acesso por permissões </td>
 		</tr>
@@ -202,12 +203,19 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Evita erros de interpretação;
 - Economiza tempo ao buscar informações;
 - [Planilha no Google Sheets](https://drive.google.com/drive/folders/1Mjbn_3i3VlQ5wi0VrNi0sbqA0evLKaeM?usp=sharing);
+  
 **Comandos**
 - Seleciona: shift + seta para baixo, seleciona até onde eu quero abaixo;
 - Control + enter desce a palavra, mas fica na mesma célula;
-- Alinhamento vertical: 
+- Alinhamento vertical:
+  ![image](https://github.com/user-attachments/assets/b23332a6-6385-4493-83d2-b44fa09fec5b)
+- Redimencionar linhas:
+  ![image](https://github.com/user-attachments/assets/5065164e-fbe1-4861-80d3-4846124dea4d) ![image](https://github.com/user-attachments/assets/74aa6dff-77bb-4af9-98eb-6a772d186145)
+- Bordas:
+  ![image](https://github.com/user-attachments/assets/7c135a40-2046-4f7e-9ffc-7d037614cf28)
+- Pra selecionar linhas e colunas alternadas, utilizar tecla control;
 
-
+##Gráficos e quando usá-los:
 ## Ferramentas
 - Google Sheets;
 
