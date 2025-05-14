@@ -193,6 +193,21 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 	</tbody>
 </table>
 
+##Introdução à visualização de Dados
+**Objetivos:**
+- Compreender a importância da organização e interpretação de dados;
+- Aprender a formatar células e tabelas para melhorar a visualização:
+**Por que organizar os dados:**
+- Facilita a leitura e análise;
+- Evita erros de interpretação;
+- Economiza tempo ao buscar informações;
+- [Planilha no Google Sheets](https://drive.google.com/drive/folders/1Mjbn_3i3VlQ5wi0VrNi0sbqA0evLKaeM?usp=sharing);
+**Comandos**
+- Seleciona: shift + seta para baixo, seleciona até onde eu quero abaixo;
+- Control + enter desce a palavra, mas fica na mesma célula;
+- Alinhamento vertical: 
+
+
 ## Ferramentas
 - Google Sheets;
 
