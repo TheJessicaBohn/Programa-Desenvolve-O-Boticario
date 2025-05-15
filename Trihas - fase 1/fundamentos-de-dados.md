@@ -238,7 +238,22 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Gráfico de Pizza: proporção por caregorias;
 - ![image](https://github.com/user-attachments/assets/9c2cc1b0-f8ab-4012-b08d-4fdd9697bbff)
 
+  ## Criando tabelas dinâmicas
+  **Objetivos:**
+  - Aprender a criar tabelas dinâmicas;
+  - Ajustarlegendas, títulos e eixos dos gráficos;
 
+**O que é uma tabela dinâmica?**
+- Permite resumir e analisar grandes volumes de dados de forma interativa(só os dados mais importantes);
+- Facilita Agrupamentos e cálculos sem alterar a base original(agrupamento ex: group by);
+- ![image](https://github.com/user-attachments/assets/4f2c2afe-3eac-4d24-ae79-8ca9251a873e)
+- ![image](https://github.com/user-attachments/assets/5f8e4e99-975a-4f1c-a8fe-6cc5e6e7d655)
+- ![image](https://github.com/user-attachments/assets/aab07059-dc6f-4def-91dc-818971dcca7f)
+
+- Controle de filtro dentro da planilha:
+- ![image](https://github.com/user-attachments/assets/5a4ec7d6-03b0-4a91-8b7c-38e3ef2c7472)
+- ![image](https://github.com/user-attachments/assets/9f7bca62-f02a-4377-9e59-ab0e082a5417)
+ 
 ## Ferramentas
 - Google Sheets;
 
