@@ -147,6 +147,7 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Objetivo: Facilitar o acesso, a organização e segurança de dados;
 - Ilustarção: Repressentação de um banco de dados "centtralizado";
 **Explicação**
+- O banco de dados é a parte mais importante de um sistema pois é onde são guardadas todas as informações, todo o histórico da empresa, está no bamco de dados e não na interface
 - No banco de dados é possivel ter acesso a tudo que a empresa faz;
 - E em cima desse banco é construído um sistema, e através de telas de cadastro ou consultas e relatórios;
 - Assim o usuário pode acessao banco;
@@ -216,6 +217,28 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Pra selecionar linhas e colunas alternadas, utilizar tecla control;
 
 ##Gráficos e quando usá-los:
+**Objetivos:**
+- Compreender os diferentes tipos de gráficos;
+- Identificar quando usar cada tipo de gráfico para diferentes dados;
+
+**O que são gráficos e por que utilizá-los?**
+- Transformam dados em informações visuais para fácil interpretação;
+- Facilitam a comparação e análise de tendências;
+- Diferentes tipo de gráficos são usados para diferentes finalidades;
+- A representação visual fica mais facil de compreender os dados, ao invés de números;
+
+**Principais tipos de gráficos abordados:**
+- ![image](https://github.com/user-attachments/assets/621d9dfa-8e23-4a23-9b0e-37cce11c1f92)
+- Gráfico de Barras: eixo x e y por barras;
+- ![image](https://github.com/user-attachments/assets/237e531b-eae1-4f19-95a5-d35ac7a209d9)
+
+- Gráfico de Linhas: eixo x e y por linhas, como gráficos financeiros;
+- ![image](https://github.com/user-attachments/assets/ecc73340-9edd-4e15-b901-2c9585476b87)
+
+- Gráfico de Pizza: proporção por caregorias;
+- ![image](https://github.com/user-attachments/assets/9c2cc1b0-f8ab-4012-b08d-4fdd9697bbff)
+
+
 ## Ferramentas
 - Google Sheets;
 
