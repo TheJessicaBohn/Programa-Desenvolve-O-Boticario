@@ -253,7 +253,34 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Controle de filtro dentro da planilha:
 - ![image](https://github.com/user-attachments/assets/5a4ec7d6-03b0-4a91-8b7c-38e3ef2c7472)
 - ![image](https://github.com/user-attachments/assets/9f7bca62-f02a-4377-9e59-ab0e082a5417)
- 
+
+## Análise e destaque de dados:
+**Objetivos:**
+- Compreeender cálculos básicos no Google Sheets;
+- Aplicar formatação condicional para destacar informações importantes;
+**Funções essenciais para análise de dados:**
+- SOMA -> ```=SUM(A1:A10)``` -> Calcula o total do intervalo;
+- MÉDIA -> ```=AVERAGE(B1:B10)``` -> Obtém média dos valores;
+- PORCENTAGEM -> ```=(C2/C$10)*100``` -> Calcula a porcentagem de um valor em relação ao total;
+- CONT.NUM -> ```=CONT.NUM(D1:D20)``` -> Conta quantes células têm números;
+- CONT.VALORES -> ```=CONT.VALORES(E1:E20)``` -> Conta todas as células;
+**Utilizando as funções para controle de gastos:**
+- Prencher 2 celulas com números crescente ou decrescentes selecioná-los e de puxar para outras células faz com que ele preencha com a forma que você deseja em sequência;
+- Formatar para moeda:
+- ![image](https://github.com/user-attachments/assets/d7cc2904-a08e-44cf-99f7-7b2e08bcdbd7)
+- SUM: ![image](https://github.com/user-attachments/assets/be510154-d692-4b2e-92f8-4690ec182b6c)
+- AVERAGE: ![image](https://github.com/user-attachments/assets/3eac6f13-4aac-4319-be04-d6f804bd6f25)
+
+## Como analisar Gráficos:
+**Objetivos:**
+- Interpretar gráficos de barras, pizza;
+- Comparar dados e identificar anomalias rapidamente;
+- Evitar erros comuns na leitura de gráficos;
+**Explicação**
+- Quando se tem um negócio da pra verificar os gargalos, como queda de vendas, epidemia de dengue;
+- Gerar um plano de ação, e por issi analisar os dados;
+- Cliente reclamando de falta de determinado produto;
+- 
 ## Ferramentas
 - Google Sheets;
 
