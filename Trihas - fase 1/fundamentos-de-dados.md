@@ -147,6 +147,7 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Objetivo: Facilitar o acesso, a organização e segurança de dados;
 - Ilustarção: Repressentação de um banco de dados "centtralizado";
 **Explicação**
+- O banco de dados é a parte mais importante de um sistema pois é onde são guardadas todas as informações, todo o histórico da empresa, está no bamco de dados e não na interface
 - No banco de dados é possivel ter acesso a tudo que a empresa faz;
 - E em cima desse banco é construído um sistema, e através de telas de cadastro ou consultas e relatórios;
 - Assim o usuário pode acessao banco;
@@ -216,8 +217,107 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Pra selecionar linhas e colunas alternadas, utilizar tecla control;
 
 ##Gráficos e quando usá-los:
+**Objetivos:**
+- Compreender os diferentes tipos de gráficos;
+- Identificar quando usar cada tipo de gráfico para diferentes dados;
+
+**O que são gráficos e por que utilizá-los?**
+- Transformam dados em informações visuais para fácil interpretação;
+- Facilitam a comparação e análise de tendências;
+- Diferentes tipo de gráficos são usados para diferentes finalidades;
+- A representação visual fica mais facil de compreender os dados, ao invés de números;
+
+**Principais tipos de gráficos abordados:**
+- ![image](https://github.com/user-attachments/assets/621d9dfa-8e23-4a23-9b0e-37cce11c1f92)
+- Gráfico de Barras: eixo x e y por barras;
+- ![image](https://github.com/user-attachments/assets/237e531b-eae1-4f19-95a5-d35ac7a209d9)
+
+- Gráfico de Linhas: eixo x e y por linhas, como gráficos financeiros;
+- ![image](https://github.com/user-attachments/assets/ecc73340-9edd-4e15-b901-2c9585476b87)
+
+- Gráfico de Pizza: proporção por caregorias;
+- ![image](https://github.com/user-attachments/assets/9c2cc1b0-f8ab-4012-b08d-4fdd9697bbff)
+
+  ## Criando tabelas dinâmicas
+  **Objetivos:**
+  - Aprender a criar tabelas dinâmicas;
+  - Ajustarlegendas, títulos e eixos dos gráficos;
+
+**O que é uma tabela dinâmica?**
+- Permite resumir e analisar grandes volumes de dados de forma interativa(só os dados mais importantes);
+- Facilita Agrupamentos e cálculos sem alterar a base original(agrupamento ex: group by);
+- ![image](https://github.com/user-attachments/assets/4f2c2afe-3eac-4d24-ae79-8ca9251a873e)
+- ![image](https://github.com/user-attachments/assets/5f8e4e99-975a-4f1c-a8fe-6cc5e6e7d655)
+- ![image](https://github.com/user-attachments/assets/aab07059-dc6f-4def-91dc-818971dcca7f)
+
+- Controle de filtro dentro da planilha:
+- ![image](https://github.com/user-attachments/assets/5a4ec7d6-03b0-4a91-8b7c-38e3ef2c7472)
+- ![image](https://github.com/user-attachments/assets/9f7bca62-f02a-4377-9e59-ab0e082a5417)
+
+## Análise e destaque de dados:
+**Objetivos:**
+- Compreeender cálculos básicos no Google Sheets;
+- Aplicar formatação condicional para destacar informações importantes;
+**Funções essenciais para análise de dados:**
+- SOMA -> ```=SUM(A1:A10)``` -> Calcula o total do intervalo;
+- MÉDIA -> ```=AVERAGE(B1:B10)``` -> Obtém média dos valores;
+- PORCENTAGEM -> ```=(C2/C$10)*100``` -> Calcula a porcentagem de um valor em relação ao total;
+- CONT.NUM -> ```=CONT.NUM(D1:D20)``` -> Conta quantes células têm números;
+- CONT.VALORES -> ```=CONT.VALORES(E1:E20)``` -> Conta todas as células;
+**Utilizando as funções para controle de gastos:**
+- Prencher 2 celulas com números crescente ou decrescentes selecioná-los e de puxar para outras células faz com que ele preencha com a forma que você deseja em sequência;
+- Formatar para moeda:
+- ![image](https://github.com/user-attachments/assets/d7cc2904-a08e-44cf-99f7-7b2e08bcdbd7)
+- SUM: ![image](https://github.com/user-attachments/assets/be510154-d692-4b2e-92f8-4690ec182b6c)
+- AVERAGE: ![image](https://github.com/user-attachments/assets/3eac6f13-4aac-4319-be04-d6f804bd6f25)
+
+## Introdução às decisões baseadas em dados:
+**Objetivos:**
+-  Compreender o conceito dde decisões baseadas em dados;
+-  Identificas problemas e oportunudades que podem ser resolvidos com dados;
+-  Aprender a formular perguntas claras e específicas para análises de dados;
+
+**O que são Decisões Baseadas em Dados?**
+- Decisões tomads com base em evidencias extraídas dos dados;
+- Substitui intuição por análise lógica;
+- Reduz incertezas e melhora resultados;
+- Fazer as perguntas certas para a nossa base de dados;
+- Quanto mais dados se tem mais valores de gestão teremos; 
+- EXEMPLO PRÁTICO: Uma loja analisa os produtos mais vendidos para definir quais itens manter em estoque;
+
+**A Anánlise dos Dados podem resolver diversos tipos de problemas:**
+- EMPRESAS: Melhorar vendas, prever demanda, reduzir custos;
+- SAÚDE: Identificar tendências de foenças, melhorar atendimento;
+- EDUCAÇÃO: Avaliar desempenho de alunos e ajustas estatégias;
+- EXEMPLO PRÁTICO: Um restaurante usa dados para prever o movimento e otimizar compar de ingredientes;
+
+**Gráfico de linhas:**
+- Vamos criar um gráfico no Google Sheets para representar a dituação de venda de um determinado produto:
+![image](https://github.com/user-attachments/assets/7fd9af12-35f6-4db3-ba96-3c7038520a6f)
+  
+## Identificação de Padrões nos Dados
+**Objetivos:**
+-  Entender o conceito de padões e tendências em cojuntos de dados(princípio da causalidade);
+-  Detectar padrões de crescimento, queda ou sazonalidade(época, páscoa, natal);
+-  Aplicar a análise de padrões na tomada de decisões;
+-  "Os dados podem revelar muito mais do que imaginamos. Como identificar padrões que ajudam a tomar decisões estratégicas?"
+-  Para rodar o gráfico é ```python Teste.py```;
+
+
+## Como analisar Gráficos:
+**Objetivos:**
+- Interpretar gráficos de barras, pizza;
+- Comparar dados e identificar anomalias rapidamente;
+- Evitar erros comuns na leitura de gráficos;
+**Explicação**
+- Quando se tem um negócio da pra verificar os gargalos, como queda de vendas, epidemia de dengue;
+- Gerar um plano de ação, e por issi analisar os dados;
+- Cliente reclamando de falta de determinado produto;
+
 ## Ferramentas
 - Google Sheets;
+- VSCode;
+- Python;
 
 ## Fontes:
 - https://desenvolve.kflix.com.br/
