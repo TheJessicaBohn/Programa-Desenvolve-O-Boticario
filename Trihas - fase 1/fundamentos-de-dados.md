@@ -271,6 +271,31 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - SUM: ![image](https://github.com/user-attachments/assets/be510154-d692-4b2e-92f8-4690ec182b6c)
 - AVERAGE: ![image](https://github.com/user-attachments/assets/3eac6f13-4aac-4319-be04-d6f804bd6f25)
 
+## Introdução às decisões baseadas em dados:
+**Objetivos:**
+-  Compreender o conceito dde decisões baseadas em dados;
+-  Identificas problemas e oportunudades que podem ser resolvidos com dados;
+-  Aprender a formular perguntas claras e específicas para análises de dados;
+
+**O que são Decisões Baseadas em Dados?**
+- Decisões tomads com base em evidencias extraídas dos dados;
+- Substitui intuição por análise lógica;
+- Reduz incertezas e melhora resultados;
+- Fazer as perguntas certas para a nossa base de dados;
+- Quanto mais dados se tem mais valores de gestão teremos; 
+- EXEMPLO PRÁTICO: Uma loja analisa os produtos mais vendidos para definir quais itens manter em estoque;
+
+**A Anánlise dos Dados podem resolver diversos tipos de problemas:**
+- EMPRESAS: Melhorar vendas, prever demanda, reduzir custos;
+- SAÚDE: Identificar tendências de foenças, melhorar atendimento;
+- EDUCAÇÃO: Avaliar desempenho de alunos e ajustas estatégias;
+- EXEMPLO PRÁTICO: Um restaurante usa dados para prever o movimento e otimizar compar de ingredientes;
+
+**Gráfico de linhas:**
+- Vamos criar um gráfico no Google Sheets para representar a dituação de venda de um determinado produto:
+![image](https://github.com/user-attachments/assets/7fd9af12-35f6-4db3-ba96-3c7038520a6f)
+  
+  
 ## Como analisar Gráficos:
 **Objetivos:**
 - Interpretar gráficos de barras, pizza;
