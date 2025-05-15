@@ -295,7 +295,15 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Vamos criar um gráfico no Google Sheets para representar a dituação de venda de um determinado produto:
 ![image](https://github.com/user-attachments/assets/7fd9af12-35f6-4db3-ba96-3c7038520a6f)
   
-  
+## Identificação de Padrões nos Dados
+**Objetivos:**
+-  Entender o conceito de padões e tendências em cojuntos de dados(princípio da causalidade);
+-  Detectar padrões de crescimento, queda ou sazonalidade(época, páscoa, natal);
+-  Aplicar a análise de padrões na tomada de decisões;
+-  "Os dados podem revelar muito mais do que imaginamos. Como identificar padrões que ajudam a tomar decisões estratégicas?"
+-  Para rodar o gráfico é ```python Teste.py```;
+
+
 ## Como analisar Gráficos:
 **Objetivos:**
 - Interpretar gráficos de barras, pizza;
@@ -305,9 +313,11 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Quando se tem um negócio da pra verificar os gargalos, como queda de vendas, epidemia de dengue;
 - Gerar um plano de ação, e por issi analisar os dados;
 - Cliente reclamando de falta de determinado produto;
-- 
+
 ## Ferramentas
 - Google Sheets;
+- VSCode;
+- Python;
 
 ## Fontes:
 - https://desenvolve.kflix.com.br/
