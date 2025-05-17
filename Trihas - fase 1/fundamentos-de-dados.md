@@ -309,10 +309,19 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Interpretar gráficos de barras, pizza;
 - Comparar dados e identificar anomalias rapidamente;
 - Evitar erros comuns na leitura de gráficos;
+
 **Explicação**
 - Quando se tem um negócio da pra verificar os gargalos, como queda de vendas, epidemia de dengue;
 - Gerar um plano de ação, e por issi analisar os dados;
 - Cliente reclamando de falta de determinado produto;
+
+**Erros comuns na leitura de gráficos:
+- Escala Y inconsistente, do 0 para o 500 depois direto para 1500
+- Ordenação confusa das categorias, sem estar em ordem decrescente ou crescente;
+- Falta de rótulos explicativos;
+- Reflexão:"Você já tomou uma decisão errada por interpretar um gráfico de forma equivocada?" 
+A leitura correta de gráficos e a análise eficiente de dados vão levar a resultados positivos na Análise de Dados;
+- Parra mostrar de uma forma melhor e classificar em dados decrescente:
 
 ## Ferramentas
 - Google Sheets;
