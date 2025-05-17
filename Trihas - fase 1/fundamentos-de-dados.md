@@ -324,7 +324,7 @@ A leitura correta de gráficos e a análise eficiente de dados vão levar a resu
 - Parra mostrar de uma forma melhor e classificar em dados decrescente:
 - ![image](https://github.com/user-attachments/assets/f800dcf4-87b8-4bcf-96a5-07aff928f298)
 
-##Comunicação eficiente com dados:
+## Comunicação eficiente com dados:
 **Objetivos:**
 - Aprender a apresentar dados de forma clara e persuasiva;
 - Conhecer boas práticas para apresentação visiaç de dados;
@@ -344,6 +344,26 @@ A leitura correta de gráficos e a análise eficiente de dados vão levar a resu
 - Nem sempre precisamos colocar todos os dados da tabela;
 - Reflexão: "Saber interpretar dados é essencial, mas apresenta-los de forma clara e persuasiva é igualmente importante;"
 
+## Aplicando o aprendizado: Introdução ao projeo de gestão de gastos:
+**Objetivos:**
+- Revisar os principais pontos abordados no curso;
+- Compreender a importância do monitoramento financeiro pessoal;
+- Planejar e estruturar uma planilha para controle de gastos.
+
+**Revisão:**
+- Dados são informações que podemos coletar, mensuarar e analisar, parar gerar conhecimento;
+- Sempre que queremos resolver um problema ou responder a uma pergunta, recorremos a dados;
+- Exemplos: Qual é a pizzaria que tenm mais barata e a saborosa aqui perto de casa? ou
+Qual a plataforma de streaming tem o filme que pretendo assistir?
+- Dado: 5, Informação 5 mg Diazepam, Conhecimento: Paciente apresentou melhoras no quadro da pressão arterial;
+- Planila vs Banco de dados:
+  - Comparação: a Planilha é ideal para poucas informações, pois é dificil escalar;
+  - O banco de Dados fas a gerência de milhares de registros de forma estruturada.
+
+**A importância do monitoramento pessoal:**
+- Você já sentiu que o seu dinheiro desaparece sem exatamente saber para onde foi? o controle financeiro é essencial para uma vida mais organizada e segura. Hoje vamos aprender a criar uma planilha de controle de gastos para acompanhar melhor nossas finanças"
+- Vide [planilha](https://docs.google.com/spreadsheets/d/1DjgUKR2A2tB7QsSnwc8WtuShvnlMTabieyz2kRTrpl0/edit?usp=sharing);
+  
 ## Ferramentas
 - Google Sheets;
 - VSCode;
