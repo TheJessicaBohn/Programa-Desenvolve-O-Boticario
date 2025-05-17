@@ -322,6 +322,7 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Reflexão:"Você já tomou uma decisão errada por interpretar um gráfico de forma equivocada?" 
 A leitura correta de gráficos e a análise eficiente de dados vão levar a resultados positivos na Análise de Dados;
 - Parra mostrar de uma forma melhor e classificar em dados decrescente:
+- ![image](https://github.com/user-attachments/assets/f800dcf4-87b8-4bcf-96a5-07aff928f298)
 
 ## Ferramentas
 - Google Sheets;
