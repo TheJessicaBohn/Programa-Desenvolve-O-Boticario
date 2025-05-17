@@ -315,7 +315,7 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 - Gerar um plano de ação, e por issi analisar os dados;
 - Cliente reclamando de falta de determinado produto;
 
-**Erros comuns na leitura de gráficos:
+**Erros comuns na leitura de gráficos:**
 - Escala Y inconsistente, do 0 para o 500 depois direto para 1500
 - Ordenação confusa das categorias, sem estar em ordem decrescente ou crescente;
 - Falta de rótulos explicativos;
@@ -323,6 +323,26 @@ para que gerem dados e os dispositivos vão aprendendo esses comportamentos, iss
 A leitura correta de gráficos e a análise eficiente de dados vão levar a resultados positivos na Análise de Dados;
 - Parra mostrar de uma forma melhor e classificar em dados decrescente:
 - ![image](https://github.com/user-attachments/assets/f800dcf4-87b8-4bcf-96a5-07aff928f298)
+
+##Comunicação eficiente com dados:
+**Objetivos:**
+- Aprender a apresentar dados de forma clara e persuasiva;
+- Conhecer boas práticas para apresentação visiaç de dados;
+- Criar relatórios visuais eficazes;
+**Escolhendo a visualização correta:**
+- 1- Comparação de valores - Gráfico de Barras:
+  - Este gráfico de barras é ideal para comparar a quantidadde de vendas entre diferentes produtos;
+  - Por que é a escolha correta?
+    - Cada categoria tem um valor distinto e precisa ser comparado visualmente;
+    - As barras permitem uma leitura clara das diferenças entre os produtos;
+    - O Eixo Y apresenta valores exatod, facilitando a análise;
+  - Se usássemos um gráfico de pizza:
+    - Seria mais difícil comparar os valores com precisão;
+    - Pequenas diferenças poderiam ser dificeis de perceber;
+
+**Explicação:**
+- Nem sempre precisamos colocar todos os dados da tabela;
+- Reflexão: "Saber interpretar dados é essencial, mas apresenta-los de forma clara e persuasiva é igualmente importante;"
 
 ## Ferramentas
 - Google Sheets;
