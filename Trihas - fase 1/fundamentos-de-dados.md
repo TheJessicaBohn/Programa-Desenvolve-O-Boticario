@@ -358,7 +358,7 @@ Qual a plataforma de streaming tem o filme que pretendo assistir?
 - Dado: 5, Informação 5 mg Diazepam, Conhecimento: Paciente apresentou melhoras no quadro da pressão arterial;
 - Planila vs Banco de dados:
   - Comparação: a Planilha é ideal para poucas informações, pois é dificil escalar;
-  - O banco de Dados fas a gerência de milhares de registros de forma estruturada.
+  - O banco de Dados faz a gerência de milhares de registros de forma estruturada.
 
 **A importância do monitoramento pessoal:**
 - Você já sentiu que o seu dinheiro desaparece sem exatamente saber para onde foi? o controle financeiro é essencial para uma vida mais organizada e segura. Hoje vamos aprender a criar uma planilha de controle de gastos para acompanhar melhor nossas finanças"
