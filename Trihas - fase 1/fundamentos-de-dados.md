@@ -369,6 +369,8 @@ Qual a plataforma de streaming tem o filme que pretendo assistir?
 - Aprender a registrar os dados corretamente na planilha;
 - Aplicar fórmulas básicas para cálculos financeiros;
 - Criar uam coluna de sal acumulado para acompanhar o orçamento;  
+![image](https://github.com/user-attachments/assets/1535eff9-7930-4392-b651-4e47e5236640)
+
 
 ## Ferramentas
 - Google Sheets;
