@@ -363,7 +363,13 @@ Qual a plataforma de streaming tem o filme que pretendo assistir?
 **A importância do monitoramento pessoal:**
 - Você já sentiu que o seu dinheiro desaparece sem exatamente saber para onde foi? o controle financeiro é essencial para uma vida mais organizada e segura. Hoje vamos aprender a criar uma planilha de controle de gastos para acompanhar melhor nossas finanças"
 - Vide [planilha](https://docs.google.com/spreadsheets/d/1DjgUKR2A2tB7QsSnwc8WtuShvnlMTabieyz2kRTrpl0/edit?usp=sharing);
-  
+
+## Inserindo dados e criando calculos básicos:
+**Objetivos:**
+- Aprender a registrar os dados corretamente na planilha;
+- Aplicar fórmulas básicas para cálculos financeiros;
+- Criar uam coluna de sal acumulado para acompanhar o orçamento;  
+
 ## Ferramentas
 - Google Sheets;
 - VSCode;
