@@ -368,9 +368,24 @@ Qual a plataforma de streaming tem o filme que pretendo assistir?
 **Objetivos:**
 - Aprender a registrar os dados corretamente na planilha;
 - Aplicar fórmulas básicas para cálculos financeiros;
-- Criar uam coluna de sal acumulado para acompanhar o orçamento;  
-![image](https://github.com/user-attachments/assets/1535eff9-7930-4392-b651-4e47e5236640)
+- Criar uam coluna de salário acumulado para acompanhar o orçamento;  
+![image](https://github.com/user-attachments/assets/fd8aab40-b616-4b00-bfb9-c67847edc044)
 
+## Criando gráficos para analise de dados:
+**Objetivos:**
+- Contruir gráficos para visualizar as despesas po categria;
+- Comparar gastos utilizando diferentes tipos de gráficos;
+- Personalizar gráficos para melhor interpretaçao de dados;
+- Com as colunas Descrição e Valor vamos criar um gráfico, somente das despesas
+**Reflexão:**
+- Já imaginou seus números em imagens fáceis de entender? Os gráficos para visualizar melhor nossos gastos;
+- ![image](https://github.com/user-attachments/assets/c4120fdd-ff8d-452d-b88b-d513dda5b332)
+- Validação de dados:
+- ![image](https://github.com/user-attachments/assets/82cf8059-b181-4404-bad5-5940b6396cd3)
+- ![image](https://github.com/user-attachments/assets/19e21274-0a09-4dfb-9983-ac6ee89655cf)
+
+## Analisando os resultados e melhorando a planilha:
+**Objetivos:**
 
 ## Ferramentas
 - Google Sheets;
