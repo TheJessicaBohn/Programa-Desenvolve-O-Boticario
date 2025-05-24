@@ -386,7 +386,19 @@ Qual a plataforma de streaming tem o filme que pretendo assistir?
 
 ## Analisando os resultados e melhorando a planilha:
 **Objetivos:**
-
+- Identificar padrões financeiros dos dados;
+- Aplicar formatação condicional para destacar valores críticos;
+- Utilizar filtros e ordenações para abálise eficiente
+- Formatação condicional:
+- ![image](https://github.com/user-attachments/assets/35bbd8ac-4bc0-4075-9504-3c029956eae3)
+- ![image](https://github.com/user-attachments/assets/6980ede1-7ad3-4e84-897a-f74bd5bbbd14)
+- ![image](https://github.com/user-attachments/assets/f64e2ff5-377f-4c00-b857-24e912284732)
+- Filtros:
+- ![image](https://github.com/user-attachments/assets/ef2c6cfd-5872-465e-9e19-eeac090046c6)
+- ![image](https://github.com/user-attachments/assets/8489b08b-fcc8-4e6d-86df-7e716ac6af33)
+- ![image](https://github.com/user-attachments/assets/fb878e24-6493-4d2b-b27a-63cd0b377914)
+- "O pessimista se queixa do vento. O otimista espera que ele mude. O realista ajusta as velas." W. Arthur Ward;
+  
 ## Ferramentas
 - Google Sheets;
 - VSCode;
